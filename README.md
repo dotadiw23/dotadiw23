@@ -4,7 +4,6 @@ I'm a systems engineering student, with a backend developer profile.
 
 - 💼 I’m currently looking for a job
 - 🤓 I’m learning REST!
-- 🗓 2021 Goals: Contribute more to Open Source projects
 - 🎸 Fun fact: I slap the bass
 
 ## Languages and Tools
