@@ -2,8 +2,8 @@
 
 I'm a systems engineering student, with a backend developer profile.
 
-- 💼 I’m currently looking for a job
-- 🤓 I’m learning REST!
+- 💼 Junior Developer
+- 🤓 I’m learning UE5!
 - 🎸 Fun fact: I slap the bass
 
 ## Languages and Tools
@@ -13,7 +13,7 @@ I'm a systems engineering student, with a backend developer profile.
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![NODE](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![PYTON](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![JAVA](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![JAVA](https://img.shields.io/badge/-Java-red?style=flat&logo=springboot)
 ![KOTLIN](https://img.shields.io/badge/-Kotlin-ff1d77?style=flat&logo=kotlin)
 ![ANDROID](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=android)
 ![MYSQL](https://img.shields.io/badge/-MySQL-2d638f?style=flat&logo=mysql&logoColor=white)
